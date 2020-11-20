@@ -34,3 +34,19 @@ button {
     cursor: pointer;
     font-size: 18px;
 }
+.header-wrapper {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    width: 100%;
+}
+
+.header-info {
+    color: #fff;
+    background-color: #041e42;
+    position: fixed;
+    z-index: 5;
+    height: 30px;
+    width: 100%;
+    display: flex;
+}
